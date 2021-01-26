@@ -1,0 +1,2 @@
+rootProject.name = "kotlin hilt sample"
+include ':app'
